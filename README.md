@@ -76,6 +76,3 @@ The data cleaning process resulted in a refined dataset that:
 
 This project showcases essential data cleaning techniques in SQL, which are critical for preparing data for analysis. The clean dataset is now ready for exploratory data analysis (EDA) and further insights.
 
----
-
-This README provides a comprehensive overview of the data cleaning process, detailing the steps taken to ensure a high-quality, usable dataset.
