@@ -1,7 +1,3 @@
-Here's a structured README description for your GitHub project:
-
----
-
 # SQL Data Cleaning Project: Layoffs 2022 Dataset
 
 ## Table of Contents
